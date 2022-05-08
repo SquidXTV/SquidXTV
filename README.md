@@ -1,6 +1,5 @@
 - Hi, I am SquidXTV/Connor Schweighöfer,
-- I am interested in Java, Minecraft and python development
-- I started learning Java when I was 13 and I am currently learning python, especially with tkinter
+- Skills: Java, Minecraft Spigot/Paper, Python
 - You can always reach me via my e-mail `squidxtv@gmail.com` or `schweighoefer.connor@gmail.com`
 
 <!---
