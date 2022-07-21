@@ -1,5 +1,6 @@
 - Hi, I am SquidXTV/Connor Schweighöfer,
-- Skills: Java, Minecraft Spigot/Paper, Python
+- Languages: Java, Python
+- API's: JavaFX, PaperMC, Spigot
 - You can always reach me via my e-mail `squidxtv@gmail.com` or `schweighoefer.connor@gmail.com`
 
 <!---
