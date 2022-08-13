@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub SquidXTV](https://img.shields.io/github/followers/SquidXTV?label=follow&style=social)](https://github.com/SquidXTV)
 [![Gmail Badge](https://img.shields.io/badge/SquidXTV-EA4335?style=flat&logo=gmail&logoColor=dfdfdf&link=mailto:squidxtv@gmail.com)](mailto:squidxtv@gmail.com)
-[![TogetherJava](https://img.shields.io/badge/TogetherJava-EA4335?style=flat&logo=discord&logoColor=ffffff&color=768BD5)](https://discord.gg/bb8be8cT)
+[![TogetherJava](https://img.shields.io/badge/TogetherJava-EA4335?style=flat&logo=discord&logoColor=ffffff&color=768BD5)](https://discord.com/invite/XXFUXzK)
 
 ---
 # **GitHub Stats**
