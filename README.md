@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ``` 
 👨‍💻 experience in Java , PaperMC, Forge, SpigotMC, JavaFX
-📖 learning Java concurrency
+📖 Reading Effective Java (3)
 📝 working on Minecraft Mods and Plugins
 😀 he/him
 📮 squidxtv@gmail.com or Discord: SquidXTV#1175
