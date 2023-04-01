@@ -25,6 +25,9 @@ You can click the Preview link to take a look at your changes.
 <!--        <img align="right" src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif" width="35%"> -->
 </div>
 
+---
+[![Trophies](https://github-profile-trophy.vercel.app/?username=squidxtv)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!---
 ---
 # **Projects**
