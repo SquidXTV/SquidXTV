@@ -2,25 +2,13 @@
 <!-- ![]() -->
 
 ## About Me
-I'm an 18-year-old developer and high school student from Rinteln, Germany, with a passion for crafting cool and user-friendly apps. 
-I've been into computer science for about 4 years now, and it's been an awesome journey so far!
+My name is Connor Schweighöfer, and I'm a 19-year-old developer. I recently finished high school with a focus on Math, Physics and Chemistry. Later this year, I will being studying Computer Science at the [FHDW](https://www.fhdw.de/en). My partner company will be [adesso SE](https://www.adesso.de/en/), where I will gain practical experience in fullstack development.
 
-Right now, I'm wrapping up high school, focusing on Math, Physics, and Chemistry, as I couldn't take computer science in school. I'm going to start my computer science studies in 2024.
-University sounds like a big adventure, and I can't wait to level up my dev skills there.
+I developed an interest in Computer Science at the age of 14 by playing Minecraft and creating my own modifications and plugins for the game. My focus quickly shifted towards learning Java, and after a few months, I completed the [Java Programming course](https://java-programming.mooc.fi/) from the University of Helsinki. At the same time, I became active on the [Together Java](https://togetherjava.org/) Discord server. Now, I am an active helper and community lead on the server, which helps me to stay up-to-date with latest technologies.
 
-## My Journey
-I've been lucky to work on all sorts of projects that helped me learn tons of technologies.
-One of my favs was helping out with TJ-Bot, a community discord bot for the Together Java discord server. 
-I'm a helper and community lead for the Together Java discord and I love being up-to-date and in touch
-with other developer
+Throughout my journey as a developer, I have been working on a wide range of projects. I contributed to [TJ-Bot](https://github.com/Together-Java/TJ-Bot), an open-source Discord bot for the Together Java Discord server. Additionally, I have been working on my own little projects like a Minecraft Plugin library called [FrameUI](https://github.com/SquidXTV/FrameUI) and some JavaFX projects, including my [thesis](https://squidxtv.me/resources/Thesis%20-%20Two-Body%20Problem.pdf) on the two-body problem.
 
-## Minecraft Magic
-Lately, I've been diving deep into Minecraft plugins and I am currently working on two plugins called
-FrameUI and AuctionHouseUI. 
-
-FrameUI is a library that lets you create interactive in-game "Screens" which consist of multiple item frames
-holding maps with a custom renderer. This library will be used in the AuctionHouseUI plugin in the future to
-create an auction house which got a real graphical user interface instead of inventory-based gui.
+Currently, I am becoming more interested in backend development, particularly learning Spring and its ecosystem. I have studied the basics of [Spring in Action, Sixth Edition](https://github.com/SquidXTV/taco-cloud), and I am currently exploring the [Spring Certified Professional](https://spring.academy/paths/spring-certified-professional-2023) course. 
 
 ## Contact
 You can reach me by writing an e-mail to `squidxtv@gmail.com`.
